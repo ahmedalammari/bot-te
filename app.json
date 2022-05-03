@@ -1,0 +1,14 @@
+{
+    "name": "TikTok-DL-BOT",
+    "description": "Telegram BOT to Download TikTok Videos ",
+    "repository": "https://github.com/AnonymousDevalopers/TikTok-DL-BOT",
+    "logo": "https://telegra.ph/file/513e64b84dd5213903164.png",
+    "keywords": ["telegram", "bot", "api", "tiktok", "tiktok-api"],
+    "env": {
+      "BOT_TOKEN": {
+              "description": "API Token for your Telegram bot (Take it from @BotFather)",
+              "required": true
+      }
+    }
+  }
+  
